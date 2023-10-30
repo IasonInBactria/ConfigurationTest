@@ -7,3 +7,4 @@ servers:
 
 datasource:
   driverClassName: com.mysql.jdbc.Driver456
+  password: 0129
